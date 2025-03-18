@@ -33,4 +33,4 @@ python iDrac_Sys_info.py
 ```
 
 ## Output
-![Output](output.png)
+![Output](Output.png)
