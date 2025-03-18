@@ -21,11 +21,12 @@ Before running the script, add the iDRACs you want to monitor by updating the `i
 idrac_list = [
     {"ip": "192.168.1.100", "user": "root", "password": "calvin"},
     {"ip": "192.168.1.101", "user": "root", "password": "calvin"},
-    ]
+    ] 
+```
 
 ## Usage
 
 Run the script from the command line or directly with Python:
 
 ```sh
-python script.py
+python iDrac_Sys_info.py
