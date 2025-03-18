@@ -30,3 +30,7 @@ Run the script from the command line or directly with Python:
 
 ```sh
 python iDrac_Sys_info.py
+```
+
+## Output
+![Output](output.png)
