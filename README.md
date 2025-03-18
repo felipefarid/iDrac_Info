@@ -29,9 +29,8 @@ idrac_list = [
 
 Run the script from the command line or directly with Python:
 
-```sh
 python script.py
 
 ## Output
 
-![Example Output](output.png)
+
